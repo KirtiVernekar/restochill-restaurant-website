@@ -1,5 +1,5 @@
 <h1 align="center">RestoChill</h1>
-<h6 align="center">A completely responsive restaurant website design using html, css and vanilla javascript.</h6>
+<h4 align="center">A completely responsive restaurant website design using html, css and vanilla javascript.</h4>
 
 <hr />
 [Website Link] (https://restochill.netlify.app)
