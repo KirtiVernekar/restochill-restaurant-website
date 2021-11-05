@@ -1,5 +1,5 @@
 <h1 align="center">RestoChill</h1>
-<h4 align="center">A completely responsive restaurant website design using html, css and vanilla javascript.</h4>
+<h4 align="center">A completely responsive restaurant web app UI design using HTML, CSS and Vanilla JS.</h4>
 
 <hr />
 [Website Link] (https://restochill.netlify.app)
@@ -13,7 +13,7 @@
 
 ## 💡Features
 
-1. Responsive
+1. Responsive Design
 2. Smooth Scrolling
 3. Touch slider using swiper.js
 
